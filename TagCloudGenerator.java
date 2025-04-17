@@ -16,7 +16,7 @@ import components.sortingmachine.SortingMachine2;
 /**
  * Generates a tag cloud from a text file based on word frequencies.
  *
- * @author Ayub Abdi and Mark Wang
+ * @author Ayub Abdi
  */
 public final class TagCloudGenerator {
 
